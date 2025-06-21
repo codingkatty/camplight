@@ -21,3 +21,6 @@ sooo here's what I'm gonna like add;
 - built in neopixels or some led
 - usb-c?
 
+## Day 2
+I did the schematic!!
+
