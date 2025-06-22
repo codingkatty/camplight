@@ -24,3 +24,17 @@ sooo here's what I'm gonna like add;
 ## Day 2
 I did the schematic!!
 
+![image](https://github.com/user-attachments/assets/1450e587-e984-47df-9110-e8f39d636072)
+
+(I wrote this on day 3 tho)
+
+I looked at an open source board I found on github, yea.. and I think I want to try to use a hot plate so I guess there's like smd components (?) Btw tysm acon, I got on a call with acon and she help me with my usb c :3 
+
+## Day 3
+Today, I finished the schematic and added footprints.. uhh I will add to this a bit later cuz I need to do some stuff :(
+Here's the pcb thing! without the wires connected tho
+
+![image](https://github.com/user-attachments/assets/752df3a1-37ed-4942-b0ae-b23c67b16a53)
+
+I hope i can continue with the silkscreen soon
+
