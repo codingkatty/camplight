@@ -49,5 +49,14 @@ But then like there's this problem at the usb-c so idk how to fix it...
 
 ![image](https://github.com/user-attachments/assets/89c16daa-775f-4a76-a7e6-655f81ec1a9d)
 
+### Silkscreen
+I used figma and took around 30 minutes drawing kinda random stuff, and here's what happened:
 
+![image](https://github.com/user-attachments/assets/dd9ef286-a210-4eab-b75b-17cc7d21005a)
+
+![image](https://github.com/user-attachments/assets/e5cc30ea-8d91-438b-9c2c-7ee3ae0c3cdf)
+
+![image](https://github.com/user-attachments/assets/6c9b4f15-490a-443e-af05-fa7eead045ca)
+
+idk what to do at the back, i guess. its going to be covered by the case. next up tho imma go link the bom/make casing :3
 
