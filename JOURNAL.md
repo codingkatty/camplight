@@ -22,7 +22,7 @@ sooo here's what I'm gonna like add;
 - usb-c?
 
 ## Day 2
-I did the schematic!!
+I did the schematic!! I kind of just followed an open source board but I used a usb-c and used smd components. I also added some neopixels :3 There's this tp4056 to charge the battery through the usb and i hope it works.
 
 ![image](https://github.com/user-attachments/assets/1450e587-e984-47df-9110-e8f39d636072)
 
@@ -36,5 +36,27 @@ Here's the pcb thing! without the wires connected tho
 
 ![image](https://github.com/user-attachments/assets/752df3a1-37ed-4942-b0ae-b23c67b16a53)
 
-I hope i can continue with the silkscreen soon
+I don't know what to write here, but I guess... it looks pretty.. nice?
+
+## Day 4
+I spent around 2h routing the pcb! This is the end result and its like 4 layers. While routing the pcb, I kinda selected the wrong footprint for resistors so I had to redo some stuff.
+
+![image](https://github.com/user-attachments/assets/c6211f49-8ec1-4888-ac49-e83982310b7b)
+
+![image](https://github.com/user-attachments/assets/0ef97ea0-153c-419f-a9c3-2f92486dfa0a)
+
+But then like there's this problem at the usb-c so idk how to fix it...
+
+![image](https://github.com/user-attachments/assets/89c16daa-775f-4a76-a7e6-655f81ec1a9d)
+
+### Silkscreen
+I used figma and took around 30 minutes drawing kinda random stuff, and here's what happened:
+
+![image](https://github.com/user-attachments/assets/dd9ef286-a210-4eab-b75b-17cc7d21005a)
+
+![image](https://github.com/user-attachments/assets/e5cc30ea-8d91-438b-9c2c-7ee3ae0c3cdf)
+
+![image](https://github.com/user-attachments/assets/6c9b4f15-490a-443e-af05-fa7eead045ca)
+
+idk what to do at the back, i guess. its going to be covered by the case. next up tho imma go link the bom/make casing :3
 
