@@ -60,3 +60,26 @@ I used figma and took around 30 minutes drawing kinda random stuff, and here's w
 
 idk what to do at the back, i guess. its going to be covered by the case. next up tho imma go link the bom/make casing :3
 
+## Day 5
+I did a complete overhaul of the pcb, ended up like this:
+
+![image](https://github.com/user-attachments/assets/990a08e3-f9e7-48b3-8c58-16aa3e63f21b)
+
+So uh, its almost the same except i added a switch for power on/off, a push button and some resistors. I also spent some time looking at lcsc and adding stuff in bom
+
+## Day 6
+
+![gif](https://github.com/user-attachments/assets/a0ebe501-75f3-4423-872c-a8ffa9c2ff84)
+
+so today, I made this little case. it has 4 components which are the main thing, the small top cover, the acrylic cover and the button cover. the main color is purple I guess? and this is what it looks like
+
+![camplight](https://github.com/user-attachments/assets/d23bd0dc-12ac-419e-8160-7726105e7c01)
+
+though because of skill issue, it's not the best case... (ah well.) but it would be held together with glue. basically, there's this very small line at the very top that i will apply glue to at the main base, and it will glue to the top covers. I will also use small pieces of double sided tape to hold the pcb in. (I hope it works.) other than that, apprently the pcb didn't export nicely and the edge cuts are broken (?) soo that's that.
+
+### little list of features of the case
+- a small compartment for battery
+- 2 hooks for camping strings
+- button cover?
+- a place to put acrylic
+- holes for usb and switch
