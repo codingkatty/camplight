@@ -83,3 +83,6 @@ though because of skill issue, it's not the best case... (ah well.) but it would
 - button cover?
 - a place to put acrylic
 - holes for usb and switch
+
+## Day 7
+I fixed the edge cuts, now I have it properly in fusion! I also made a small doodle cat on the silk screen.
