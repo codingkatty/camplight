@@ -22,8 +22,7 @@ for some of them i got 100 because the total is cheaper
 
 | Item | Quantity | Price |
 | ---- | -------- | ----- |
-| Hot plate | 1 | $x |
-| Solder paste | 1 | $x |
+| [Hot plate](https://e.tb.cn/h.hVcM8z9Rfjfrvx4?tk=SRmzVDTL3zw) & [Solder paste](https://e.tb.cn/h.hVcMfCLMz4AmPJ4?tk=9Px4VDToVpj) (including shipping) | 1 | ~$17.56 |
 | Case | 1 | $0 / self print |
 | Soldering iron | Owned | $0 |
 | Acrylic | 1 | $x |
@@ -50,5 +49,5 @@ for some of them i got 100 because the total is cheaper
 | [AMS1117-5.0](https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_GOODWORK-AMS1117-5-0_C6068482.html) | 10 | $0.38 |
 | [Push button switch](https://lcsc.com/product-detail/Tactile-Switch-Push-Button-Switch_YIZHI-YZA-072-5-0_C49108658.html) | 50 | $0.46 |
 | [Slide switch](https://lcsc.com/product-detail/Slide-Switches_G-Switch-MK-12C02-G025_C778186.html) | 5 | $0.60 |
+| LCSC shipping | | $6.39 |
 | Total | | $x |
-
