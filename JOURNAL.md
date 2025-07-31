@@ -5,6 +5,8 @@ description: "Neopixel warning light thingy!"
 created_at: "2025-6-19"
 ---
 
+Total time: 10 hours
+
 ## Day 1
 (~1 hr) Today, I started some research about how I could do this, and I think I want to try and make a Attiny85 dev board thing (or something like that!). Andddd I found some resources:
 
@@ -88,4 +90,4 @@ though because of skill issue, it's not the best case... (ah well.) but it would
 I fixed the edge cuts, now I have it properly in fusion! I also made a small doodle cat on the silk screen.
 
 ## Day 8
-Updated BOM
+Updated BOM, very simple neopixel only code
