@@ -1,11 +1,12 @@
 Item,Link,Quantity,Price
-Hot plate,N/A,1,0
-Solder paste,N/A,1,0
+Hot plate,N/A,0,9.2
+Solder paste,N/A,0,2.9
 Case,N/A,1,0
-Soldering iron,N/A,1,0
-Acrylic,N/A,1,0
+Soldering iron,N/A,0,0
 PCB,JLCPCB,1,1.5
+Li-Po batteryN/A,,0,1.2
 Type-C connector,https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html,5,0.87
+Acrylic,N/A,1,5
 ,,,
 Resistors,,,
 1.5k?,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF1501T5E_C22843.html,100,0.11
@@ -31,4 +32,4 @@ AMS1117-5.0,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-O
 Push button switch,https://lcsc.com/product-detail/Tactile-Switch-Push-Button-Switch_YIZHI-YZA-072-5-0_C49108658.html,50,0.46
 Slide switch,https://lcsc.com/product-detail/Slide-Switches_G-Switch-MK-12C02-G025_C778186.html,5,0.63
 LCSC shipping,N/A,1,19.47
-,,Total,43.67
+,,Total,47.17

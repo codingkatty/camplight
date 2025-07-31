@@ -22,11 +22,13 @@ for some of them i got 100 because the total is cheaper
 
 | Item | Quantity | Price |
 | ---- | -------- | ----- |
-| Hot plate & solder paste | 1 | $0 |
+| Hot plate | 0 | $9.20 |
+| Solder paste | 0 | $2.90 |
 | Case | 1 | $0 / self print |
-| Soldering iron | 1 | $0 |
-| Acrylic | 1 | $0 |
+| Soldering iron | 0 | $0 |
+| Acrylic | 1 | $5 |
 | PCB from JLCPCB | 1 | $1.50 (with coupon) |
+| Li-Po Battery | 0 | $1.20 |
 | [Type-C connector](https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html) | 5 | $0.87 |
 | [1.5kΩ resistor](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF1501T5E_C22843.html) | 100 | $0.11 |
 | [5.1kΩ resistor](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F5101TS_C2907044.html) | 100 | $0.10 |
@@ -50,4 +52,4 @@ for some of them i got 100 because the total is cheaper
 | [Push button switch](https://lcsc.com/product-detail/Tactile-Switch-Push-Button-Switch_YIZHI-YZA-072-5-0_C49108658.html) | 50 | $0.46 |
 | [Slide switch](https://lcsc.com/product-detail/Slide-Switches_G-Switch-MK-12C02-G025_C778186.html) | 5 | $0.63 |
 | LCSC shipping | | $19.47 |
-| Total | | $43.67 |
+| Total | | $47.17 |
